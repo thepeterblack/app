@@ -8,7 +8,7 @@
     "start": "npm run build && node dist/index.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.22.0",
     "morgan": "^1.9.1"
   },
   "devDependencies": {
